@@ -14,7 +14,7 @@ Acredito que consistência, curiosidade e disciplina são as chaves para se torn
 
 <p align="left">
   <a href="https://github.com/LuizFilipe-dev">
-    <img src=![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) />
+    <img src="https://img.shields.io/badge/GitHub-LuizFilipe-dev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/_luizz.gomes_/">
     <img src="https://img.shields.io/badge/Instagram-@_luizz.gomes_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -57,18 +57,16 @@ Acredito que consistência, curiosidade e disciplina são as chaves para se torn
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizFilipe-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFilipe-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Programar não se trata apenas de resolver problemas.
+Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas

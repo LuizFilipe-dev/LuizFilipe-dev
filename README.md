@@ -1,9 +1,7 @@
-# Olá 👋, sou Luiz Filipe
+# Olá 👋, me chamo Luiz Filipe
 
-🚀 **Estudante de Ciência da Computação | Desenvolvedor Fullstack em formação** 
-🇧🇷 Brasil
-
-Sou estudante de Ciência da Computação na Universidade Católica de Brasília (UCB) e estagiário de tecnologia no MDS – Ministério do Desenvolvimento Social.
+Tenho 18 anos e sou natural do Brasil.
+**Atualmente, curso Ciência da Computação na Universidade Católica de Brasília (UCB) e realizo estágio na área de tecnologia no MDS – Ministério do Desenvolvimento Social.**
 
 Estou no início da minha jornada no desenvolvimento de software, mas muito motivado para aprender, praticar e crescer a cada dia.
 Meu objetivo é me tornar um desenvolvedor Fullstack, construindo bases sólidas em lógica, padrão profissional e sistemas do mundo real.
@@ -16,7 +14,7 @@ Acredito que consistência, curiosidade e disciplina são as chaves para se torn
 
 <p align="left">
   <a href="https://github.com/LuizFilipe-dev">
-    <img src="https://img.shields.io/badge/GitHub-LuizFilipe-dev-181717?style=for-the-badge&logo=github" />
+    <img src=![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) />
   </a>
   <a href="https://www.instagram.com/_luizz.gomes_/">
     <img src="https://img.shields.io/badge/Instagram-@_luizz.gomes_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
